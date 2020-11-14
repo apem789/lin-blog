@@ -8,12 +8,20 @@ author_image_url: https://himg.bdimg.com/sys/portrait/item/642de68993e59da635353
 tags: [前端, 基础, javascript]
 ---
 
-## 目录一
+## 浏览器运行原理
 
-## 目录二
+## js历史
 
-## 目录三
+## js基础数据类型
 
-## 目录四
+## js数组
 
-## 目录五
+## js函数
+
+## js对象
+
+## js定义域
+
+## js原型和原型链
+
+## js-this
