@@ -12,7 +12,7 @@ tags: [前端, 基础, javascript]
 
 ## 目录三
 
-## 目录四
+## js-必须懂的apply,call,bind
 
 ## js-常用的设计模式和应用场景
 
